@@ -9,7 +9,7 @@ O programa utiliza *uma estrutura de dados* para resolver o seguinte problema: l
 ###Exemplo
 
 **Entrada:**
-
+```
 8											*número de blocos com informação*
 0.0.0.0/0 N/A
 146.164.0.0/16 UFRJ
@@ -22,9 +22,10 @@ O programa utiliza *uma estrutura de dados* para resolver o seguinte problema: l
 146.164.3.8
 146.164.41.210
 5.0.1.2
-
+```
 **Saida:**
-
+```
 146.164.3.8 UFRJ
 146.164.41.210 DCC-UFRJ
 5.0.1.2 N/A
+```
