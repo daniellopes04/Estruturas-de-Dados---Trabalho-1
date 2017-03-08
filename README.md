@@ -10,7 +10,7 @@ O programa utiliza *uma estrutura de dados* para resolver o seguinte problema: l
 
 **Entrada:**
 ```
-8											*número de blocos com informação*
+8											//número de blocos com informação
 0.0.0.0/0 N/A
 146.164.0.0/16 UFRJ
 146.164.3.7/32 acd.ufrj.br
