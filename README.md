@@ -1,12 +1,12 @@
-#Trabalho 1 (Estrutura de Dados)
+# Trabalho 1 (Estrutura de Dados)
 Trabalho de desenvolvimento C/C++ para a disciplina de Estruturas de Dados do curso de Ciência da Computação da Universidade Federal do Rio de Janeiro (UFRJ).
 
-##Descrição
+## Descrição
 
-###Cidr blocks
+### Cidr blocks
 O programa utiliza *uma estrutura de dados* para resolver o seguinte problema: ler uma lista de blocos cidr e informações associadas a cada bloco e guardá-los. Após a lista de blocos, serão dados alguns IPs, que devem ser consultados. Então, imprimir a informação mais específica sobre o bloco.
 
-###Exemplo
+### Exemplo
 
 **Entrada:**
 ```
