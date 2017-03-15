@@ -4,8 +4,7 @@
 using namespace std;
 
 #define TAM 50
-string info_blocks[TAM];
-string blocks[TAM];
+string info_blocks[TAM], blocks[TAM];
 
 void init();
 void overflow();
@@ -15,7 +14,7 @@ int main(int argc, char const *argv[]) {
   ifstream file;
   string line;
   int n, ntotal, i = 0;
-  
+
   file.open("entrada.txt");
   init();
 
